@@ -22,3 +22,11 @@ Here are some ideas to get you started:
 
 ### Now working...
 To see what I'm doing, check pinned repos below.
+
+### Other contents
+- Repositories
+  - [gitlab](https://gitlab.com)
+- Writing
+  - [Zenn](https://zenn.dev/kkiyama117)
+  - [Qiita](https://qiita.com/maskuarade)
+  - [Gist](https://gist.github.com/kkiyama117)
