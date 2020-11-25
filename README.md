@@ -30,3 +30,6 @@ To see what I'm doing, check pinned repos below.
   - [Zenn](https://zenn.dev/kkiyama117)
   - [Qiita](https://qiita.com/maskuarade)
   - [Gist](https://gist.github.com/kkiyama117)
+
+##### donate
+[paypal](https://www.paypal.com/paypalme/kkiyama117)
