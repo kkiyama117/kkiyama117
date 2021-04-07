@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/dracula/4-productive-time.svg)
-```
-
-    
