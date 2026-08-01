@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Now working...
-To see what I'm doing, check pinned repos below.
-
 ### Other contents
 - Repositories
   - [gitlab](https://gitlab.com)
