@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/kkiyama117/kkiyama117/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### Other contents
+- [profile](https://profile.kkiyama117.dev)
 - Repositories
   - [gitlab](https://gitlab.com)
 - Writing
